@@ -14,7 +14,7 @@ public class LottoScanner {
 		Random r = new Random();
 		
 		for(int i = 0; i < lotto.length; i++) {
-			lotto[i] = r.nextInt(6) + 1;
+			lotto[i] = r.nextInt(45) + 1;
 		}
 
 		System.out.println("숫자를 입력하세요. : ");
