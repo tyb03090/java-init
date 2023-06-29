@@ -14,7 +14,6 @@ public class TwoArray {
 			for(int j = 0; j < numsArray[i].length; j++) {
 //				c++;
 //				numsArray[i][j] = c;
-				numsArray[i][j] = numsArray[i][j] + 1 * 2;
 			}
 		}
 		
