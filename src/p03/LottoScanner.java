@@ -29,6 +29,9 @@ public class LottoScanner {
 			for(int j = 0; j < lotto.length; j++) {
 				if(lotto[j] == Integer.parseInt(str[i])) {
 					c++;
+				/*
+				 * 여기서 쪽지시험 최소 3문제
+				 */
 				}
 			}
 		}
