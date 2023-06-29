@@ -3,6 +3,8 @@ package p03;
 import java.util.Random;
 import java.util.Scanner;
 
+
+
 public class FindNum {
 
 	public static void main(String[] args) {
