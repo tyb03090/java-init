@@ -16,7 +16,7 @@ public class ArrayTest {
 		lotto[0] = 1;					// 주소의 값을 불러오는 작업이 먼저였기 때문에, 선언을 해줘도 출력은 0이 됨
 		lotto = new int[5];				// 
 		
-		int i = 0;						//
+		int i = 0;						// 
 		
 	}
 

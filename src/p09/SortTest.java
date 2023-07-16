@@ -4,8 +4,6 @@ public class SortTest {
 
 	public static void main(String[] args) {
 		
-		
-		
 		int n1 = 10; 
 		int n2 = 3;
 		int n3 = 13;
@@ -74,10 +72,10 @@ public class SortTest {
 		
 		System.out.println();
 		
-		System.out.print(n1);
-		System.out.print(n2);
-		System.out.print(n3);
-		System.out.print(n4);
-		System.out.print(n5);
+		System.out.print(n1 + "\t");
+		System.out.print(n2 + "\t");
+		System.out.print(n3 + "\t");
+		System.out.print(n4 + "\t");
+		System.out.print(n5 + "\t");
 	}
 }

@@ -12,7 +12,7 @@ public class Convert {
 		System.out.println(i == i1);		// equals와 비슷한 의미지만, equals가 더 많이 사용됨
 		
 		String str = "120";					// 120은 숫자이지만, 문자형으로 선언함.
-		int i2 = Integer.parseInt(str);		// 문자형으로 선언된 str의 값을 숫자형으로 형변환시켜줌
+		int i2 = Integer.parseInt(str);		// 문자형으로 선언된 str의 값을 숫자형으로 형변환시켜줌. 대신에 String 값이 '123'과 같을 때만 적용됨
 		System.out.println(i2);				// 숫자형으로 형변환 되었기 때문에 ""를 붙이지 않아도 됨
 	}
 }
